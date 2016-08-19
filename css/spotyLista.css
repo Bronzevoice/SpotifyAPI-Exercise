@@ -1,0 +1,31 @@
+body{
+	background-color: #373737;
+	color: white;
+	text-align: center;
+}
+h1{
+	text-transform: capitalize;
+} 
+ul{
+	list-style: none;
+}
+input{
+	color:grey;
+}
+.modal{
+    color: black;
+    text-align: center;   
+}
+#logo{
+	width: 50px;
+	height: 50px;
+}
+#imagen{
+	width: 262.86px;
+	height: 262.86px;
+}
+input[type=text]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+ border-bottom: 1px solid #1ed760 ;
+ box-shadow: 0 1px 0 0 #1ed760 ;
+}

@@ -1,0 +1,12 @@
+body{
+	background-color: #373737;
+	color: white;
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
+#logo{
+	width: 50px;
+	height: 50px;
+}

@@ -1,0 +1,8 @@
+storageUsers({
+	"users":[
+	{"name":"Sara", "password":"sara1"},
+	{"name": "Alvaro", "password" : "alvaro1"},
+	{"name": "Paz", "password": "paz1"},
+	{"name": "Paco", "password": "paco1"}
+	]
+})

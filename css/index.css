@@ -1,0 +1,23 @@
+body{
+	background-color: #373737;
+	color: white;
+	text-align: center;
+}
+h1{
+	text-transform: capitalize;
+} 
+h5{
+	max-height: 20px;
+	background-color: transparent 60%;
+}
+input{
+	color:grey;
+}
+img{
+	max-width: 300px;
+}
+input[type=text]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+ border-bottom: 1px solid #1ed760 ;
+ box-shadow: 0 1px 0 0 #1ed760 ;
+}
